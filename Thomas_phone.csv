@@ -1,4 +1,4 @@
-Time,x_linear_acc,y_linear_acc,z_linear_acc,absolute_acc
+Time (s),Linear Acceleration x (m/s^2),Linear Acceleration y (m/s^2),Linear Acceleration z (m/s^2),Absolute acceleration (m/s^2)
 4.82E-03,-5.26E-02,-6.88E-02,-6.86E-02,1.10E-01
 1.48E-02,-4.86E-02,-7.21E-02,-6.14E-02,1.06E-01
 2.48E-02,-5.05E-02,-7.32E-02,-6.08E-02,1.08E-01
